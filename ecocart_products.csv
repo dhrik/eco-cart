@@ -1,31 +1,31 @@
-Product,Eco_Score,Issues,Alternative
-shampoo bottle,2,"Plastic packaging, non-recyclable cap",Use shampoo bars or refill stations
-plastic water bottle,1,"Single-use plastic, high carbon footprint",Use a reusable metal or glass bottle
-paper straw,4,Slightly wasteful production process,Use a reusable stainless steel straw
-toothpaste tube,2,Non-recyclable tube,Use toothpaste tablets in glass jars
-milk carton,3,"Plastic coating, hard to recycle",Buy in glass bottles with returns
-plastic grocery bag,1,"Non-biodegradable, ends up in oceans",Use cloth or jute bags
-aluminum foil,2,Energy-intensive production,Use beeswax wraps or reusable containers
-disposable coffee cup,2,"Plastic lid and lining, not fully recyclable",Carry your own reusable cup
-plastic cutlery,1,"Single-use, contributes to landfill waste",Use bamboo or metal cutlery
-cling film,1,Non-recyclable plastic film,Switch to beeswax wraps or reusable lids
-foam food container,1,"Non-biodegradable, toxic when burned",Use compostable containers or carry own box
-glass jar,5,Heavy but fully recyclable and reusable,Reuse glass jars for storage or buying bulk
-reusable shopping bag,5,"Durable, reusable, and eco-friendly",Carry one whenever shopping
-metal water bottle,5,"Reusable, long-lasting alternative to plastic",Refill and reuse a metal bottle
-cotton tote bag,4,Can be reused but high water usage in production,Use responsibly and often
-plastic wrap,1,"Non-recyclable, plastic-heavy",Try reusable silicone wraps
-face wash tube,2,"Plastic tube, hard to recycle",Buy from brands with eco-refill pouches
-laundry detergent bottle,2,"Bulky plastic packaging, non-recyclable parts",Try powder detergents in cardboard boxes
-deodorant spray can,3,Aluminum can with some recyclability issues,Use refillable roll-on deodorants
-wet wipes pack,2,"Contains plastic fibers, not flushable",Use reusable cloths or washable wipes
-disposable razor,2,"Single-use metal and plastic, not recyclable", Use safety razors or electric razors 
- fast fashion t-shirt ,1," Mass-produced, water-intensive, landfill waste ",Buy second-hand or slow fashion brands   
- plastic toothbrush,2,"Not biodegradable, high plastic waste  ",Switch to bamboo or compostable toothbrushes
-coffee pods    ,2, Plastic pods are difficult to recycle  ,Use refillable filters or compostable pods   
-plastic food wrap  ,1,"Clings to food, not recyclable    ",Use beeswax wrap or silicone lids  
-balloon    ,1,"Non-biodegradable, can harm animals  ",Use reusable fabric or paper decorations 
-plastic straw ,1,"Single-use plastic, landfill waste   ",Use metal or paper straws             
-body lotion bottle  ,2," Plastic packaging, low recyclability  ", Refillable glass jars or metal tins
-plastic hanger  ,1," Often made from mixed plastics, not recycled ",Use wooden or metal hangers          
-microwave meal tray  ,2,Non-recyclable black plastic    , Choose reusable glass or stainless containers
+Product,Eco_Score,Issues,Alternative,Carbon_Footprint
+shampoo bottle,2,"Plastic packaging, non-recyclable cap",Use shampoo bars or refill stations,0.6
+plastic water bottle,1,"Single-use plastic, high carbon footprint",Use a reusable metal or glass bottle,0.8
+paper straw,4,Slightly wasteful production process,Use a reusable stainless steel straw,0.2
+toothpaste tube,2,Non-recyclable tube,Use toothpaste tablets in glass jars,0.5
+milk carton,3,"Plastic coating, hard to recycle",Buy in glass bottles with returns,1
+plastic grocery bag,1,"Non-biodegradable, ends up in oceans",Use cloth or jute bags,1.5
+aluminum foil,2,Energy-intensive production,Use beeswax wraps or reusable containers,2
+disposable coffee cup,2,"Plastic lid and lining, not fully recyclable",Carry your own reusable cup,0.9
+plastic cutlery,1,"Single-use, contributes to landfill waste",Use bamboo or metal cutlery,1.2
+cling film,1,Non-recyclable plastic film,Switch to beeswax wraps or reusable lids,1.3
+foam food container,1,"Non-biodegradable, toxic when burned",Use compostable containers or carry own box,2.5
+glass jar,5,Heavy but fully recyclable and reusable,Reuse glass jars for storage or buying bulk,1.8
+reusable shopping bag,5,"Durable, reusable, and eco-friendly",Carry one whenever shopping,0.3
+metal water bottle,5,"Reusable, long-lasting alternative to plastic",Refill and reuse a metal bottle,3
+cotton tote bag,4,Can be reused but high water usage in production,Use responsibly and often,2
+plastic wrap,1,"Non-recyclable, plastic-heavy",Try reusable silicone wraps,1.1
+face wash tube,2,"Plastic tube, hard to recycle",Buy from brands with eco-refill pouches,0.6
+laundry detergent bottle,2,"Bulky plastic packaging, non-recyclable parts",Try powder detergents in cardboard boxes,1.4
+deodorant spray can,3,Aluminum can with some recyclability issues,Use refillable roll-on deodorants,1.2
+wet wipes pack,2,"Contains plastic fibers, not flushable",Use reusable cloths or washable wipes,1.7
+disposable razor,2,"Single-use metal and plastic, not recyclable", Use safety razors or electric razors ,1.8
+ fast fashion t-shirt ,1," Mass-produced, water-intensive, landfill waste ",Buy second-hand or slow fashion brands   ,3.5
+ plastic toothbrush,2,"Not biodegradable, high plastic waste  ",Switch to bamboo or compostable toothbrushes,0.9
+coffee pods    ,2, Plastic pods are difficult to recycle  ,Use refillable filters or compostable pods   ,1.6
+plastic food wrap  ,1,"Clings to food, not recyclable    ",Use beeswax wrap or silicone lids  ,1.2
+balloon    ,1,"Non-biodegradable, can harm animals  ",Use reusable fabric or paper decorations ,0.4
+plastic straw ,1,"Single-use plastic, landfill waste   ",Use metal or paper straws             ,0.5
+body lotion bottle  ,2," Plastic packaging, low recyclability  ", Refillable glass jars or metal tins,1.3
+plastic hanger  ,1," Often made from mixed plastics, not recycled ",Use wooden or metal hangers          ,1.1
+microwave meal tray  ,2,Non-recyclable black plastic    , Choose reusable glass or stainless containers,2.3
